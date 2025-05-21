@@ -37,6 +37,7 @@ pip install opencv-python opencv-contrib-python matplotlib pandas numpy scikit-l
 * **Bounding Box Annotations**
 
   * `train_solution_bounding_boxes.csv` contains image names and coordinates: `[image, xmin, ymin, xmax, ymax]`
+You can download the dataset from [this Kaggle link](https://www.kaggle.com/datasets/sshikamaru/car-object-detection/data).
 
 ---
 
@@ -108,14 +109,13 @@ plt.show()
 ```
 ![Alt text](./Detection.png)
 
-Detection.png
 ---
 
 ## 📊 Results
 
 * **Total Region Proposals Processed**: 10,581
 * **Model Input Shape**: (224, 224, 3)
-* **Classifier Output**: Binary class (Car / Not Car)
+* **Classifier Output**: Binary class (Car / Not Car) 98% validation acc 
 
 ---
 
