@@ -12,7 +12,7 @@ project/
 │   ├── training_images/
 │   ├── testing_images/
 │   ├── train_solution_bounding_boxes.csv
-├── car_detection.py  # Main detection and training logic
+├── car_detection.ipynb  # Main detection and training logic
 └── README.md
 ```
 
