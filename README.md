@@ -37,7 +37,7 @@ pip install opencv-python opencv-contrib-python matplotlib pandas numpy scikit-l
 * **Bounding Box Annotations**
 
   * `train_solution_bounding_boxes.csv` contains image names and coordinates: `[image, xmin, ymin, xmax, ymax]`
-You can download the dataset from [this Kaggle link](https://www.kaggle.com/datasets/sshikamaru/car-object-detection/data).
+* You can download the dataset from [this Kaggle link](https://www.kaggle.com/datasets/sshikamaru/car-object-detection/data).
 
 ---
 
