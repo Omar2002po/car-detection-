@@ -106,6 +106,7 @@ plt.imshow(cv2.cvtColor(image_with_boxes, cv2.COLOR_BGR2RGB))
 plt.title(f'Number of Cars Detected: {len(car_boxes)}')
 plt.show()
 ```
+![Alt text](Dectection.png)
 
 ---
 
